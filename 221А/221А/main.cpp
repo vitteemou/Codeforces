@@ -16,21 +16,7 @@
 Гарантируется, что ответ существует.*/
 
 #include <iostream>
-#include <algorithm>
 using namespace std;
-
-/*int* f(int n)
-{
-	int* arr = new int[n];
-
-	if (n == 1)
-		return arr;
-	else
-	{
-		f(n-1);
-		swap();
-	}
-}*/
 
 int main()
 {
